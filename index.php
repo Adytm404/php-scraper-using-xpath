@@ -1,7 +1,7 @@
 <?php
 
 $url = $_GET['url'];
-$path = $_GET['path'];
+$path = $_GET['xpath'];
 
 $options = [
     'http' => [
